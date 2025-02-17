@@ -1,5 +1,5 @@
 
-# ThumbnailToggler
+# Thumbnail Toggler
 
 ## General Description
 
